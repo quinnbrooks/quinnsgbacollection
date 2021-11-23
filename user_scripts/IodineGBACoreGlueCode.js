@@ -48,7 +48,6 @@ var games = {
     "hamtaro_heartbreak":"Hamtaro - Ham-Ham Heartbreak",
     "kirbymirror":"Kirby & The Amazing Mirror",
     "kirbynightmare":"Kirby: Nightmare in Dreamland",
-    //"mariokart":"Mario Kart: Super Circuit",
     "marioparty":"Mario Party Advance",
     "mariopinball":"Mario Pinball Land",
     "megamanbass":"Megaman & Bass",
