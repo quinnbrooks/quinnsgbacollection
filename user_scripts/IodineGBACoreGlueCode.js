@@ -110,7 +110,7 @@ var games = {
     "wario_ware":"Wario Ware Inc",
     "zelda_past":"The Legend of Zelda: A Link to the Past",
     "zelda_minish":"The Legend of Zelda: The Minish Cap",
-    "mariokartsupercircuit.gba":"Mario Kart Super Circuit"
+    "mariokartsupercircuit.gba":"Mario Kart Super Circuit",
     "spiderman2":"SpiderMan 2"
 };
 var Iodine = null;
